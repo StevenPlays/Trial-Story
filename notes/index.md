@@ -1,5 +1,20 @@
 ---
-title: About these notes
+layout: default
 ---
-# About these Notes
-These are some fake notes. Feel free to poke around. You may spot an [[easter egg]]  or two! Also, I like [[food]].
+
+# Timeline for Time Bureau:
+
+
+[[Redemption]] 
+
+[[Redemption 2]]
+
+[[Injustice]]
+
+[[Trade-Off]]
+
+[[Redemption3]]
+
+layout: notes / default
+
+

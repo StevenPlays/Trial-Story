@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "a361abb3fdb45402",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b86297b332885cc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/Redemption.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "27d8a07ac5da33f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5642113855194a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "046c61f5ba96de8b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea3dc1bbcecbaedc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d184ccfb506d3ed3",
+    "type": "split",
+    "children": [
+      {
+        "id": "03ce1b80ba5e5a27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d78dfaf03c22b7a7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/Redemption.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "7b86297b332885cc",
+  "lastOpenFiles": [
+    "notes/Redemption.md",
+    "notes/Redemption 2.md",
+    "notes/index.md",
+    "notes/Stories/Injustice.md",
+    "notes/Stories/Redemption.md",
+    "index.md",
+    "README.md"
+  ]
+}

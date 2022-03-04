@@ -1,0 +1,1 @@
+- Equipment used on a timeline. The timeline will be reset to before the [[Branch Timelines]] splits.

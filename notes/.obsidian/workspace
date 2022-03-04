@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "1074527ac529ad64",
+    "type": "split",
+    "children": [
+      {
+        "id": "673d9bb3f0af67c2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Plan.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "56147f32abe81d4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c97731ae357fb206",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4756d31170aa35be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f6fde96aa96100eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b9dade8eb9ab2f3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "040d70c4dbd0ce4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfc7cc1a381bcaf4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Plan.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "673d9bb3f0af67c2",
+  "lastOpenFiles": [
+    "Plan.md",
+    "Stories/Injustice.md",
+    "Stories/Trade-Off.md",
+    "Stories/Redemption 2.md",
+    "Stories/Redemption3.md",
+    "README.md",
+    "Smaller Notes for Stories/Anachronism.md",
+    "Geometry.md",
+    "Smaller Notes for Stories/Time Bureau.md",
+    "Smaller Notes for Stories/Characters/Characters.md"
+  ]
+}
