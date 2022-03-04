@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Redemption.md",
+            "file": "index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Redemption.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,12 +87,13 @@
   },
   "active": "7b86297b332885cc",
   "lastOpenFiles": [
+    "index.md",
+    "assets/avatar.png",
     "notes/Redemption.md",
     "notes/Redemption 2.md",
     "notes/index.md",
     "notes/Stories/Injustice.md",
     "notes/Stories/Redemption.md",
-    "index.md",
     "README.md"
   ]
 }
