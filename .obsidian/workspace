@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Chapter I - Ryan.md",
+            "file": "aboutme/index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Chapter I - Ryan.md",
+                "file": "aboutme/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +87,8 @@
   },
   "active": "0d11b8c632fd95a7",
   "lastOpenFiles": [
-    "notes/Chapter I - Ryan.md",
     "aboutme/index.md",
+    "notes/Chapter I - Ryan.md",
     "notes/Chapter XI - Comeback.md",
     "notes/Chapter X - Revolution.md",
     "notes/Chapter VIII - Yumi.md",
