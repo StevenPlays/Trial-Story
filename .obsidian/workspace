@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "aboutme/index.md",
+            "file": "_drafts/Plan.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aboutme/index.md",
+                "file": "_drafts/Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,7 @@
   },
   "active": "0d11b8c632fd95a7",
   "lastOpenFiles": [
+    "_drafts/Plan.md",
     "aboutme/index.md",
     "notes/Chapter I - Ryan.md",
     "notes/Chapter XI - Comeback.md",
@@ -95,7 +96,6 @@
     "notes/Chapter VII - Windy.md",
     "notes/Chapter VI - Chantel.md",
     "notes/Chapter IX - Life On Mars.md",
-    "notes/Chapter V - Sharon.md",
-    "notes/Time Loop.md"
+    "notes/Chapter V - Sharon.md"
   ]
 }
