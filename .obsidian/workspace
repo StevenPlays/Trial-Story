@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Content.md",
+            "file": "content/index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Content.md",
+                "file": "content/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,8 @@
   },
   "active": "0d11b8c632fd95a7",
   "lastOpenFiles": [
-    "notes/Content.md",
+    "content/index.md",
+    "Untitled.md",
     "characters/index.md",
     "notes/Part IV - Doomsday.md",
     "notes/Loom of Fate.md",
@@ -95,7 +96,6 @@
     "notes/Part II - Trade-Off.md",
     "notes/Chapter VIII - Yumi.md",
     "notes/Part III - Fates.md",
-    "notes/Chapter VII - Windy.md",
-    "notes/Chapter IX - Life On Mars.md"
+    "notes/Chapter VII - Windy.md"
   ]
 }
