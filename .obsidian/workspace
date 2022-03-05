@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/index.md",
+            "file": "notes/Chapter I - Ryan.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/index.md",
+                "file": "notes/Chapter I - Ryan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
   },
   "active": "0d11b8c632fd95a7",
   "lastOpenFiles": [
+    "notes/Chapter I - Ryan.md",
     "notes/index.md",
     "notes/Chapter V - Sharon.md",
     "_drafts/Plan.md",
@@ -106,7 +107,6 @@
     "index.md",
     "notes/Anachronism.md",
     "notes/Branch Timelines.md",
-    "notes/Fates.md",
-    "notes/Chapter IV - Enoch.md"
+    "notes/Fates.md"
   ]
 }
