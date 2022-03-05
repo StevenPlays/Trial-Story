@@ -3,6 +3,7 @@ layout: default
 ---
 
 ### Branch Timelines
-- Branch timelines are created when an anachronism takes place. 
-- [[Time Agent]]
+- Created when an [[Anachronism]] takes place. 
+- [[Time Agent]] have to fix the branches before they overtake the [[Main Timeline]]
+- 
 
