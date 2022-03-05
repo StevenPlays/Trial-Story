@@ -16,6 +16,6 @@ title: Content
 
 [[Redemption3]]
 
-layout: notes / default
+layout: note / default
 
 
