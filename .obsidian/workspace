@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "characters/index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "characters/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "0d11b8c632fd95a7",
   "lastOpenFiles": [
+    "characters/index.md",
     "index.md",
+    "_drafts/My own notes.md",
     "notes/Redemption.md",
-    "Templates/tab.md",
-    "Testing stuff.md",
+    "_drafts/tab.md",
     "notes/9_1024.png",
     "notes/index.md",
     "9_1024.jpeg",
     "wiki.md",
-    "notes/Time Agent 1.md",
-    "notes/wiki/Time Bureau.md"
+    "notes/Time Agent 1.md"
   ]
 }
