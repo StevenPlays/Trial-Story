@@ -49,3 +49,14 @@ It was dead silent again. Jeanie was sitting at the back of the car, too afraid 
 
 But it went sideways as expected. When Aeren was arguing with me, the car bumped into someone.
 
+“What have you done?” It was a large shock when the car hit. I checked on Aeren and Jeanie; they were both fine. I then opened the door and hopped off the car. Red was everywhere.
+
+Blood splattered all over the place. Some got onto my car, some spilled on a neighbouring lamppost, but the majority of it was on the road, where the girl we bumped into was lying on.
+
+Aeren was still conscious, but she didn’t know what to do. “She’s Venus. I… I just…” She mumbled in the car.
+
+“Stay calm.” Apart from the girl we hit, a man was also lying on the ground unconscious. I quickly rushed towards the girl and felt for her heart beat. It was dead silence. I could hear the birds squeaking on the tree, I could hear the breeze blowing all over my face, but I simply couldn’t hear the sound I was expecting.
+
+“We need to call the ambulance!” Aeren used all her strength and screamed at me, but I was too afraid to do so. My daughter’s career will be all gone if I hand her over to the police.
+
+“Stay calm!” I dashed back to the car, but I was the one who was panicking instead. I opened the door, instructing Aeren to come out. I then
