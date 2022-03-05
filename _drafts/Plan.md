@@ -23,3 +23,19 @@ Hence, Jeanie finally let go. In order to restore reality, Jeanie and Ryan went 
 Without any choices left, Jeanie stepped up and revealed to the public that she stole Ryan's idea, and the invention is all Ryan's idea. However, this causes a serious timequake. Before Ryan and Jeanie die, a portal opened, and it was Curtis.
 
 
+
+Trade-Off story
+Enoch keeps (Chapter IV) (Trade-Off ends)
+Sharon keeps (Chapter V) (Prison Break)
+Anya --> Chantel (Fate) (Chapter VI) (Time-travelling)
+
+Time Heist: Windy (Fate) (Chapter VII)
+
+Consciousless: Yumi (Fate) (Chapter VIII)
+
+Katherine (Chapter IX)
+
+Climax I - Overthrown
+Climax II - Comeback
+
+

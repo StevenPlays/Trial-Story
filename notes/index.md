@@ -2,19 +2,24 @@
 layout: default
 ---
 
-# Content:
+# **Content:**
 
 
 [[Chapter I - Ryan]] 
 
-[[Redemption 2]]
+[[Chapter II - Curtis]]
 
-[[Injustice]]
+[[Chapter III - Jeanie]]
 
-[[Trade-Off]]
+[[Chapter IV - Enoch]]
 
-[[Redemption 3]]
+[[Chapter V - Sharon]]
 
-layout: note / default
+[[Chapter VI - Chantel]]
 
+[[Chapter VII - Windy]]
+
+[[Chapter VIII - Yumi]]
+
+[[Chapter IX - Katherine]]
 

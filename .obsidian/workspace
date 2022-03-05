@@ -9,13 +9,13 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Injustice.md",
+            "file": "notes/index.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "5e9a943348c79c00",
+        "id": "eb0ffec13a03a629",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Injustice.md",
+                "file": "notes/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "0d11b8c632fd95a7",
   "lastOpenFiles": [
-    "notes/Injustice.md",
-    "notes/Chapter I - Ryan.md",
+    "notes/index.md",
+    "notes/Chapter V - Sharon.md",
     "_drafts/Plan.md",
-    "notes/Redemption 3.md",
+    "_drafts/My own notes.md",
+    "characters/index.md",
+    "index.md",
     "notes/Anachronism.md",
-    "notes/Main Timeline.md",
-    "wiki.md",
-    "notes/Reset Pole.md",
-    "notes/Time Bureau.md",
-    "notes/Time Agent.md"
+    "notes/Branch Timelines.md",
+    "notes/Fates.md",
+    "notes/Chapter IV - Enoch.md"
   ]
 }
