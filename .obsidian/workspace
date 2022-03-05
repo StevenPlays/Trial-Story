@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7b86297b332885cc",
+        "id": "0d11b8c632fd95a7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "characters/index.md",
+            "file": "index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "characters/index.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,17 +85,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "7b86297b332885cc",
+  "active": "0d11b8c632fd95a7",
   "lastOpenFiles": [
-    "characters/index.md",
-    "about.md",
     "index.md",
-    "wiki/index.md",
-    "wiki/Time Agent.md",
-    "wiki/Anachronism.md",
-    "wiki/Branch Timelines.md",
+    "notes/Redemption.md",
+    "Templates/tab.md",
+    "Testing stuff.md",
+    "notes/9_1024.png",
     "notes/index.md",
-    "notes/Plan.md",
-    "notes/Trade-Off.md"
+    "9_1024.jpeg",
+    "wiki.md",
+    "notes/Time Agent 1.md",
+    "notes/wiki/Time Bureau.md"
   ]
 }
