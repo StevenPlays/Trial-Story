@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Content
 ---
 
 # Timeline for Time Bureau:
