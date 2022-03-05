@@ -73,21 +73,26 @@ a[href]:focus {
 }
 
 /* Typography */
-p {color: #67A7CD; margin-bottom: 1.15rem;}
+p {color: #1E4B6F ; margin-bottom: 1.15rem;}
 
-h1, h2, h3, h4, h5 {
+h1, h2, h3, h5 {
   margin: 2.75rem 0 1.05rem;
   font-weight: 400;
   line-height: 1.15;
 }
 
+h4 {margin: 2rem 1 0.05rem;
+font-weight: 1000;
+line-height: 0.55;
+}
+
 h1 {font-size: 3.052em;}
 
-h2 {color: #12349f; font-family: cursive;font-style: italic;font-size: 2.441em;}
+h2 {color: #12349f; font-family: cursive;font-style: italic;font-size: 2.241em;}
 
-h3 {font-weight: lighter; font-size: 1.953em;}
+h3 {color: #BE47A6; font-weight: bold; font-size: 1.953em;}
 
-h4 {font-size: 1.563em;}
+h4 {color: red; font-size: 1.563em;}
 
 h5, .larger {font-size: 1.25em;}
 

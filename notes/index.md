@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Content
 ---
 
-# Timeline for Time Bureau:
+# Content:
 
 
-[[Redemption]] 
+[[Chapter I - Ryan]] 
 
 [[Redemption 2]]
 
@@ -14,7 +13,7 @@ title: Content
 
 [[Trade-Off]]
 
-[[Redemption3]]
+[[Redemption 3]]
 
 layout: note / default
 

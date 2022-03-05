@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Description
+# Overview:
       
 
 &nbsp;&nbsp;&nbsp;&nbsp; Predestined is a story exploring different themes related to death and the purpose of life. In a world where time-travelling exists, is there actually free will left for the rest of the people? Who owns the rights to facilitate others’ life when all of us are equal? If one don’t want to live, is he worth saving? All of these are addressed in different chapters of the novel. 

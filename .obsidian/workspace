@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "characters/index.md",
+            "file": "notes/Injustice.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "5e9a943348c79c00",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_drafts/Plan.md",
             "mode": "source"
           }
         }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "characters/index.md",
+                "file": "notes/Injustice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,19 +94,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 135.5
   },
   "active": "0d11b8c632fd95a7",
   "lastOpenFiles": [
-    "characters/index.md",
-    "index.md",
-    "_drafts/My own notes.md",
-    "notes/Redemption.md",
-    "_drafts/tab.md",
-    "notes/9_1024.png",
-    "notes/index.md",
-    "9_1024.jpeg",
+    "notes/Injustice.md",
+    "notes/Chapter I - Ryan.md",
+    "_drafts/Plan.md",
+    "notes/Redemption 3.md",
+    "notes/Anachronism.md",
+    "notes/Main Timeline.md",
     "wiki.md",
-    "notes/Time Agent 1.md"
+    "notes/Reset Pole.md",
+    "notes/Time Bureau.md",
+    "notes/Time Agent.md"
   ]
 }
