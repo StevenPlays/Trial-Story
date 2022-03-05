@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Chapter XI - Comeback.md",
+            "file": "aboutme/index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Chapter XI - Comeback.md",
+                "file": "aboutme/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "0d11b8c632fd95a7",
   "lastOpenFiles": [
+    "aboutme/index.md",
     "notes/Chapter XI - Comeback.md",
-    "notes/Part IV - Doomsday.md",
-    "content/index.md",
-    "notes/Reset Pole.md",
-    "notes/Fates.md",
-    "notes/Memory Eraser.md",
     "notes/Chapter X - Revolution.md",
-    "Untitled.md",
-    "characters/index.md",
-    "notes/Loom of Fate.md"
+    "notes/Chapter VIII - Yumi.md",
+    "notes/Chapter VII - Windy.md",
+    "notes/Chapter VI - Chantel.md",
+    "notes/Chapter IX - Life On Mars.md",
+    "notes/Chapter V - Sharon.md",
+    "notes/Time Loop.md",
+    "notes/Time Bureau.md"
   ]
 }
