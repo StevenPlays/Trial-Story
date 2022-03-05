@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/index.md",
+            "file": "notes/Chapter XI - Comeback.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/index.md",
+                "file": "notes/Chapter XI - Comeback.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "0d11b8c632fd95a7",
   "lastOpenFiles": [
+    "notes/Chapter XI - Comeback.md",
+    "notes/Part IV - Doomsday.md",
     "content/index.md",
+    "notes/Reset Pole.md",
+    "notes/Fates.md",
+    "notes/Memory Eraser.md",
+    "notes/Chapter X - Revolution.md",
     "Untitled.md",
     "characters/index.md",
-    "notes/Part IV - Doomsday.md",
-    "notes/Loom of Fate.md",
-    "notes/Chapter VI - Chantel.md",
-    "notes/Part II - Trade-Off.md",
-    "notes/Chapter VIII - Yumi.md",
-    "notes/Part III - Fates.md",
-    "notes/Chapter VII - Windy.md"
+    "notes/Loom of Fate.md"
   ]
 }
