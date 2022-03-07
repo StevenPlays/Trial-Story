@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Plot Summary.md",
+            "file": "index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Plot Summary.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +87,8 @@
   },
   "active": "0d11b8c632fd95a7",
   "lastOpenFiles": [
-    "notes/Plot Summary.md",
     "index.md",
+    "plot/index.md",
     "_drafts/Plan.md",
     "aboutme/index.md",
     "notes/Chapter I - Ryan.md",

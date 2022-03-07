@@ -4,12 +4,12 @@
 }
 
 html {
-    font-size:  100%;
+    font-size:  120%;
     scroll-behavior: smooth;
 }
 
 body {
-    font-family: Times New Roman, serif;
+    font-family: Georgia, serif;
     line-height: 1.65;
 
     display: flex;
@@ -39,13 +39,13 @@ body {
 }
 
 nav a {
-    margin: 0 12px;
+    margin: 0 10px;
     font-size: 1.25em;
 }
 
 main {
     flex-grow: 1;
-    max-width: 60ch;
+    max-width: 100ch;
     width: 100%;
     margin: 0 auto;
 }
@@ -86,13 +86,13 @@ font-weight: 1000;
 line-height: 0.55;
 }
 
-h1 {font-size: 3.052em;}
+h1 {font-family: times new roman, sans-serif;font-size: 3.052em;}
 
 h2 {color: #12349f; font-family: cursive;font-style: italic;font-size: 2.241em;}
 
-h3 {color: #BE47A6; font-weight: bold; font-size: 1.953em;}
+h3 {font-family: times new roman, sans-serif; color: #BE47A6; font-weight: bold; font-size: 1.953em;}
 
-h4 {color: red; font-size: 1.263em;}
+h4 {font-family: cursive; font-size: 1.263em;}
 
 h5, .larger {font-size: 1.25em;}
 
