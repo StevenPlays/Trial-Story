@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_drafts/Plan.md",
+            "file": "notes/Plot Summary.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_drafts/Plan.md",
+                "file": "notes/Plot Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,8 @@
   },
   "active": "0d11b8c632fd95a7",
   "lastOpenFiles": [
+    "notes/Plot Summary.md",
+    "index.md",
     "_drafts/Plan.md",
     "aboutme/index.md",
     "notes/Chapter I - Ryan.md",
@@ -94,8 +96,6 @@
     "notes/Chapter X - Revolution.md",
     "notes/Chapter VIII - Yumi.md",
     "notes/Chapter VII - Windy.md",
-    "notes/Chapter VI - Chantel.md",
-    "notes/Chapter IX - Life On Mars.md",
-    "notes/Chapter V - Sharon.md"
+    "notes/Chapter VI - Chantel.md"
   ]
 }
