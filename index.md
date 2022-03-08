@@ -9,8 +9,6 @@ layout: default
   
 &nbsp;&nbsp;&nbsp;&nbsp; Different from other conventional storybooks, in the first half of Predestined, each chapter is dedicated on different characters, written in the first person narrative. In the later half, the stories, divided based on themes now, become more interconnected and build up to a final climax. Each story has its own dynamic and unique structure, and hence is worth every bit of reading.
 
-<<<<<<< HEAD
-=======
 ## [[Plot Summary]]
 
 
@@ -18,5 +16,5 @@ layout: default
 
 
 
->>>>>>> parent of 7d8ef63 (change link color)
+
 

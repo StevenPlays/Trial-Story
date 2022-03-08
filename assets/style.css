@@ -154,3 +154,29 @@ small {font-size: 0.8em;}
 .backlink:hover .backlink__preview {
     display: block;
 }
+
+<style>
+a:link {
+  color: #667ecc;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #667ecc;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #455866;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
