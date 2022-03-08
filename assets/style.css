@@ -1,6 +1,6 @@
 :root {
     --accent: #2D9CDB;
-    --grey: #454;
+    --grey: #444;
 }
 
 html {
@@ -10,17 +10,13 @@ html {
 
 body {
     font-family: Georgia, serif;
-    line-height: 1.55;
+    line-height: 1.65;
 
     display: flex;
     flex-direction: column;
     min-height: 100vh;
 
-    margin: 0 px;
-}
-
-head {
-    margin: 5 px;
+    margin: 0 24px;
 }
 
 @media only screen and (max-width: 468px) {
@@ -34,7 +30,7 @@ head {
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
-    margin-top: 0px;
+    margin-top: 8px;
 }
 
 .page-header nav a:not(:hover):not(:focus) {
@@ -43,7 +39,7 @@ head {
 }
 
 nav a {
-    margin: 0 30px;
+    margin: 0 10px;
     font-size: 1.25em;
 }
 
@@ -158,68 +154,3 @@ small {font-size: 0.8em;}
 .backlink:hover .backlink__preview {
     display: block;
 }
-
-/* Container holding the image and the text */
-.container {
-  position: relative;
-  text-align: center;
-  color: white;
-}
-
-/* Bottom left text */
-.bottom-left {
-  position: absolute;
-  bottom: 8px;
-  left: 16px;
-  color: black
-}
-
-/* Top left text */
-.top-left {
-  position: absolute;
-  top: 8px;
-  left: 16px;
-}
-
-/* Top right text */
-.top-right {
-  position: absolute;
-  top: 8px;
-  right: 16px;
-}
-
-/* Bottom right text */
-.bottom-right {
-  position: absolute;
-  bottom: 8px;
-  right: 16px;
-}
-
-/* Centered text */
-.centered {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
-<style>
-a:link {
-  color: inherit;
-  background-color: inherit;
-  text-decoration: underline
-}
-
-
-a:hover {
-  color: blue;
-  background-color: transparent;
-  text-decoration: underline;
-}
-
-a:active {
-  color: black;
-  background-color: transparent;
-  text-decoration: underline;
-}
-</style>
