@@ -4,7 +4,7 @@ layout: default
 
 # **Content:**
 
-[[Part I - Redemption]]
+[[Part 1 - Origins]]
 
 [[Part II - Trade-Off]]
 

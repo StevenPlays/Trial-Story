@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "content/index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "content/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "0d11b8c632fd95a7",
   "lastOpenFiles": [
+    "content/index.md",
+    "notes/Part 1 - Origins.md",
+    "notes/Reset Pole.md",
+    "notes/Time Loop.md",
+    "wiki.md",
     "index.md",
     "plot/index.md",
-    "Plot Summary.md",
-    "_drafts/Plan.md",
-    "downloads/index.md",
-    "notes/Chapter I - Ryan.md",
+    "notes/Loom of Fate.md",
     "notes/Chapter XI - Comeback.md",
-    "notes/Chapter X - Revolution.md",
-    "notes/Chapter VIII - Yumi.md",
-    "notes/Chapter VII - Windy.md"
+    "notes/Part III - Fates.md"
   ]
 }
