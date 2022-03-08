@@ -2,17 +2,19 @@
 <html lang="en">
 <head>
     {% include 'head.html' %}
+
+    <img src="/assets/background banner.png"; margin 0 px>
+
 </head>
-<body>
+  <container>
     <header class="page-header" alt="100">
+      {{}}
         <a href="/" class="page-header__logo" title="Go Home">
             <img src="/assets/avatar.png" alt="Home" width="50">
         <a href="javascript:history.back()">
             <img src="/assets/return.png" alt="Back" width="50">
         </a>
         <nav>
-
-
             <a href="/characters">Characters</a>
             <a href="/content">Content Page</a>
             <a href="/downloads">Downloads</a>
@@ -22,15 +24,15 @@
     </header>
     <main>
         {{content}}
+        <img src="/assets/background.png"; width="100%"; background position centered>
     </main>
-
-    <img src="/assets/background.png"; background position center>
-
+  
   </article>
     {% include 'backlinks.html' %}
 
     <footer class="page-footer">
-        <small>by {{site.author}}</small>
+        <small>by {{site.author}}
+        </small>
     </footer>
 </body>
 </html>

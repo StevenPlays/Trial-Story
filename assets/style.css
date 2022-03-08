@@ -8,6 +8,7 @@ html {
     scroll-behavior: smooth;
 }
 
+
 body {
     font-family: Georgia, serif;
     line-height: 1.65;
@@ -16,7 +17,12 @@ body {
     flex-direction: column;
     min-height: 100vh;
 
-    margin: 0 24px;
+    margin: 0px;
+}
+
+container {
+    margin: 7px;
+    margin-top: 3px
 }
 
 @media only screen and (max-width: 468px) {
@@ -157,19 +163,19 @@ small {font-size: 0.8em;}
 
 <style>
 a:link {
-  color: #667ecc;
+  color: #32648a;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: #667ecc;
+  color: #32648a;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: #455866;
+  color: blue;
   background-color: transparent;
   text-decoration: underline;
 }
